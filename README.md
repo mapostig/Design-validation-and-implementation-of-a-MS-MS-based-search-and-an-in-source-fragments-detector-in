@@ -1,7 +1,9 @@
 # Design validation and implementation of a MS/MS based search and an in source fragments detector in MS based searches
+**Author: María Postigo Fliquete**
+
 This is my final degree project in Biomedical Engineering. 
 
-Score = 10 (Merits with Honors)
+**Score = 100/100 (Merits with Honors)**
 
 ## Abstract
 
